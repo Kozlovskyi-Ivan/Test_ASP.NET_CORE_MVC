@@ -1,0 +1,14 @@
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.0\PresentationLayer.deps.json
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.0\PresentationLayer.dll
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.0\PresentationLayer.pdb
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.AssemblyInfo.cs
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.csproj.CopyComplete
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.dll
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.pdb

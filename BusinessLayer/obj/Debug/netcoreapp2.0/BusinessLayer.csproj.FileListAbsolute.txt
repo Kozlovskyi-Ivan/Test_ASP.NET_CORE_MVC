@@ -1,0 +1,14 @@
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.deps.json
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.runtimeconfig.json
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\Ivan\Documents\NewTestAspCoreFB\WebApplication1\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csproj.CoreCompileInputs.cache

@@ -1,1 +1,2 @@
-# Test_ASP.NET_CORE_MVC
+# Simple ASP.NET CORE MVC test application
+WEB-application with three tier architecture 
